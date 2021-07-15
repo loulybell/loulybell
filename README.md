@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loulybell
 - 👀 I’m interested in coding and cloud technologies
-- 🌱 I’m currently learning Python, GIT, node.js, AWS
+- 🌱 I’m currently using Python, Flask, Bootstrap, GIT, AWS
 - 💞️ I’m looking to collaborate on ... ??
 - 📫 How to reach me ...??
 
